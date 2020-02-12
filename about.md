@@ -2,6 +2,6 @@
 layout: default
 title: About
 ---
-# About page
+# About Me
 
 My name is Daniel Dobbs, and I have been working with computers ever since the first one I built fifteen years ago. I decided I wanted to pursue programming as a career about three years ago and have since been creating freelance projects to both learn and showcase what I already know. If anyone reading this needs help with a project or knows of a position I could fill, please send me an e-mail at ddobbs0902@gmail.com. Thanks for taking the time to read about me and have a great day!
