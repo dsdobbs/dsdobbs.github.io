@@ -1,6 +1,4 @@
 - name: Home
   link: /
-- name: About
-  link: /about.html
 - name: Repo
   link: https://github.com/dsdobbs/dsdobbs.github.io
