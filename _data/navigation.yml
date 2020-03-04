@@ -2,11 +2,11 @@
   link: /
 - name: This site's repo
   link: https://github.com/dsdobbs/dsdobbs.github.io
+- name: ReactJS Todo List
+  link: https://github.com/dsdobbs/reactjs-todolist
 - name: NodeJS Library
   link: https://shielded-woodland-50726.herokuapp.com/catalog
 - name: Binary Calculator
   link: https://github.com/dsdobbs/binary-calculator
 - name: Bootstrap Demo
   link: https://github.com/dsdobbs/bootstrap-demo
-- name: ReactJS Todo List
-  link: https://github.com/dsdobbs/reactjs-todolist
